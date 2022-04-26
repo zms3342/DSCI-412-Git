@@ -1,0 +1,49 @@
+---
+title: "Homework 08"
+output: html_notebookw
+---
+
+> GIT Hub Assignment
+
+In this notebook we will be listing 2 things learned for every week of this course
+
+> Week 1
+
+- The data science process 
+- basic R syntax
+
+> Week 2 
+
+- How to handle Nan values 
+- different ways to visualize data in R
+
+> Week 3
+
+- Linear regression
+- How to write Latex in an R notebook 
+
+> Week 4 
+
+- Logistic Regresion
+- How precision and recall work 
+
+> Week 5 
+
+- General Learning machines 
+- How to create confusion matricies in R 
+
+> Week 6 
+
+- Gradient Boosting machines and how they work 
+- how to print out the actual decision tree created in R 
+
+> Week 7 
+
+- Kmeans algorithm and how to optimize it 
+- How to handle Kmean outliers 
+
+> Week 8 
+
+- How to string together analytical methods without an initial direction 
+- How to construct a presenation
+ 
